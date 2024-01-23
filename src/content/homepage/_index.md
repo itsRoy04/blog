@@ -1,8 +1,11 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  # title: "The Ultimate Starter Template You Need To Start Your Next Project"
+  title: "Love You Baby KONA❤"
+  
+  content: "Whenever I’m with you, the only place I want to be is closer."
+  # content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
   image: "/images/banner.png"
   button:
     enable: true
